@@ -21,8 +21,7 @@ target 'Memechat-Frontend' do
 #Using FirebaseStorage (2.1.3)
 #Using GTMSessionFetcher (1.1.14)
 #Using GoogleToolboxForMac (2.1.3)
-#Using JSQMessagesViewController (7.3.5)
-#Using JSQSystemSoundPlayer (2.0.1)
+#Using MessageKit (0.13.2)
 #Using leveldb-library (1.20)
 #Using nanopb (0.3.8)
 

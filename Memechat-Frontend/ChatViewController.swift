@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import Messages
+import MessageUI
 
 class ChatViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+//        let childVC = MessagesViewController()
     }
 
     override func didReceiveMemoryWarning() {
@@ -20,6 +23,5 @@ class ChatViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
+    
 }
-
